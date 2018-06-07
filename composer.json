@@ -1,0 +1,12 @@
+{
+    "name": "minhsieh/php-command",
+    "description": "This is a easy library to parse cli arguments into a args Array",
+    "type": "library",
+    "authors": [
+        {
+            "name": "minhsieh",
+            "email": "side112358@gmail.com"
+        }
+    ],
+    "require": {}
+}
